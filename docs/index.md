@@ -35,3 +35,5 @@
 
 [ほげ](./hoge.md)  
 [ふが](./huga/huga.md)
+
+![ほげ](./hoge.png)
